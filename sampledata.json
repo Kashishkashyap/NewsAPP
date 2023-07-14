@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine-Russia tensions: Oil surges on supply fears - BBC News",
+      "description": "Investors are concerned about the impact of sanctions on Russia, a major producer of oil and gas.",
+      "url": "https://www.bbc.com/news/business-60473233",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10A80/production/_123342286_gettyimages-1366658925.jpg",
+      "publishedAt": "2022-02-22T08:08:52Z",
+      "content": "Image source, Getty Images\r\nOil prices are climbing on fears that the Ukraine-Russia crisis will disrupt supplies across the world. \r\nThe price of Brent crude, an international benchmark, reached a s… [+3343 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ben Morse, Kevin Dotson and Amir Vera, CNN",
+      "title": "Michigan basketball coach Juwan Howard suspended for the rest of the regular season - CNN",
+      "description": "Michigan head basketball coach Juwan Howard will not be on the sideline the rest of the regular season following a physical confrontation with members of the Wisconsin coaching staff that occurred after the Wolverines' loss to the Badgers on Sunday.",
+      "url": "https://www.cnn.com/2022/02/21/sport/juwan-howard-michigan-wisconsin-ncaa-spt-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220221030451-01-juwan-howard-scuffle-restricted-super-tease.jpg",
+      "publishedAt": "2022-02-22T08:06:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Bevan Hurley",
+      "title": "BA.2: A more contagious version of the Omicron variant has been spreading in US - The Independent",
+      "description": "New surge or long tail? Scientists weigh impact ‘stealth’ strain of Omicron could have in the US",
+      "url": "https://www.independent.co.uk/news/world/americas/omicron-ba2-variant-symptoms-us-b2020182.html",
+      "urlToImage": "https://static.independent.co.uk/2022/02/10/18/Covid%20test.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-02-22T06:25:30Z",
+      "content": "Scientists are keeping close watch on the BA.2 strain of the Omicron variant that has quietly spread throughout the United States.\r\nBA.2 has now been detected in more than 30 states, makes up around … [+1721 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Julie Turkewitz",
+      "title": "Colombia's Highest Court Decriminalizes Abortion - The New York Times",
+      "description": "The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape.",
+      "url": "https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/21/world/21colombia-3/21colombia-3-facebookJumbo.jpg",
+      "publishedAt": "2022-02-22T05:01:06Z",
+      "content": "What theyre decriminalizing is the killing of human beings, he said.\r\nUntil now, abortions had been legal only in limited circumstances, laid out by a 2006 Constitutional Court decision: when a woman… [+1651 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The Miz & Logan Paul challenge Rey & Dominik Mysterio at WrestleMania 38: Raw, Feb. 21, 2022 - WWE",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk6S08F9VO-g",
+      "urlToImage": null,
+      "publishedAt": "2022-02-22T04:13:33Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Vladimir Isachenkov, Yuras Karmanau",
+      "title": "War fears grow as Putin orders troops to eastern Ukraine - Associated Press",
+      "description": "MOSCOW (AP) — A long-feared Russian invasion of Ukraine appeared to be imminent Monday, if not already underway, with Russian President Vladimir Putin ordering forces into separatist regions of eastern Ukraine.",
+      "url": "https://apnews.com/article/russia-ukraine-joe-biden-boris-johnson-europe-emmanuel-macron-2b7c2949ae3168effce9d0cb2584bb32",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/da6b15dace4743c2b1370f42de007d2b/3000.jpeg",
+      "publishedAt": "2022-02-22T03:36:20Z",
+      "content": "MOSCOW (AP) A long-feared Russian invasion of Ukraine appeared to be imminent Monday, if not already underway, with Russian President Vladimir Putin ordering forces into separatist regions of eastern… [+9419 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Hannah Grossman",
+      "title": "Justin Trudeau overreached, this is the threshold for Canadian Emergencies Act: civil rights expert - Fox News",
+      "description": "The president of the Canadian Civil Liberties Association said Trudeau could have used the powers vested in the law without resorting to declaring an emergency",
+      "url": "https://www.foxnews.com/media/justin-trudeau-overreached-threshold-canadian-emergencies-act-civil-rights",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/AP19217073322437.jpg",
+      "publishedAt": "2022-02-22T03:32:53Z",
+      "content": "The president of the Canadian Civil Liberties Association, Laura Berger, said that Prime Minister Justin Trudeau's decision to invoke the Emergencies Act amid the unrest in Ottawa, Ontario, was a pow… [+2248 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WDRB" },
+      "author": "Eric Crawford",
+      "title": "Medina Spirit disqualified from Kentucky Derby, Mandaloun named winner - WDRB",
+      "description": "The ramifications are historic all around.",
+      "url": "https://www.wdrb.com/sports/medina-spirit-disqualified-from-kentucky-derby-mandaloun-named-winner/article_1c4d8d2a-b7ee-11eb-9c89-bf93ce5e3371.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/b/eb/bebf7612-a6e2-11eb-8f21-4fd1c8e9a35e/6087454bc39fe.image.jpg?crop=1080%2C567%2C0%2C19&resize=1080%2C567&order=crop%2Cresize",
+      "publishedAt": "2022-02-22T03:28:47Z",
+      "content": "LOUISVILLE, Ky. (WDRB) -- For the second time in the 147-year history of the Kentucky Derby, a winner was disqualified for a drug infraction.\r\nBob Bafferts Medina Spirit, who crossed the finish line … [+8435 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Jayme Deerwester, USA TODAY",
+      "title": "AT&T shuts down its 3G network Tuesday. Will it impact your car's navigation system? - USA TODAY",
+      "description": "Your phone may not use 3G anymore but a lot of cars do. See when yours will be impacted now that wireless carriers are shutting down 3G.",
+      "url": "https://www.usatoday.com/story/money/cars/2022/02/21/3-g-shutdown-cars-affected/6880873001/",
+      "urlToImage": "https://www.gannett-cdn.com/-mm-/dd098ba8556e59129dfe04735a0d81aa01e48ad2/c=0-67-1280-787/local/-/media/2019/10/12/USATODAY/usatsports/industrials-autos-2018-ford-focus-f.jpeg?auto=webp&format=pjpg&width=1200",
+      "publishedAt": "2022-02-22T02:57:54Z",
+      "content": "Do you rely on your car's navigation, traffic or roadside assistance features? Then you may wake up to an unpleasant surprise Tuesday when AT&amp;T shuts down its 3G network.\r\nWhile our smartphones s… [+13735 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Azi Paybarah",
+      "title": "Returning to Fox Business, Neil Cavuto credits vaccination with saving his life. - The New York Times",
+      "description": "The veteran host had been absent from the network for more than a month while he battled a case of Covid that landed him in the I.C.U.",
+      "url": "https://www.nytimes.com/2022/02/21/business/media/neil-cavuto-covid-vaccines.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/21/lens/21virus-briefing-cavuto/21virus-briefing-cavuto-facebookJumbo.jpg",
+      "publishedAt": "2022-02-22T02:57:25Z",
+      "content": "Because Ive had cancer, and right now I have multiple sclerosis, Mr. Cavuto continued, I am among the vulnerable 3 percent or so of the population that cannot sustain the full benefits of a vaccine.\r… [+1047 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Rebecca Feng, Quentin Webb",
+      "title": "Global Markets Fall After Russia Orders Troops Into Ukraine - The Wall Street Journal",
+      "description": "Brent crude oil rises above $97 a barrel",
+      "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-02-22-2022-11645496248",
+      "urlToImage": "https://images.wsj.net/im-490032/social",
+      "publishedAt": "2022-02-22T02:25:00Z",
+      "content": "Global stock indexes and U.S. futures fell, while crude-oil futures and government bonds rallied after Russian President Vladimir Putin ordered troops into two breakaway areas of Ukraine that he had … [+294 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "California transgender child molester Hannah Tubbs gloats over light sentence in jailhouse phone cal - FOX 11 Los Angeles",
+      "description": "Explicit Los Angeles jailhouse recordings of Hannah Tubbs, the 26-year-old child molester who received a slap on the wrist last month after pleading guilty t...",
+      "url": "https://www.youtube.com/watch?v=zSQ3iuuDN5E",
+      "urlToImage": "https://i.ytimg.com/vi/zSQ3iuuDN5E/hqdefault.jpg",
+      "publishedAt": "2022-02-22T02:18:37Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": null,
+      "title": "Amid talk of player boycotts, NFL scouting combine amends event's COVID-19 policies, procedures - ESPN",
+      "description": "As talk of potential player boycotts gained momentum Monday, the NFL scouting combine sent a memo to all prospective NFL players attending the annual pre-draft event in Indianapolis, revising policies and procedures regarding COVID-19 protocols.",
+      "url": "https://www.espn.com/nfl/story/_/id/33344206/amid-talk-player-boycotts-nfl-scouting-combine-amends-event-covid-19-policies-procedures",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0222%2Fr977451_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-02-22T02:13:31Z",
+      "content": "The NFL scouting combine on Monday night sent a memo to all prospective NFL players attending next month's annual pre-draft event in Indianapolis, revising its policies and procedures regarding COVID… [+4703 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Corinne Heller",
+      "title": "Sam Hunt's Pregnant Wife Hannah Lee Fowler Files for Divorce: Reports - E! NEWS",
+      "description": "Sam Hunt's pregnant Wife Hannah Lee Fowler has filed papers to end her marriage to the country music star, claiming he cheated on her.",
+      "url": "https://www.eonline.com/news/1320566/sam-hunts-pregnant-wife-hannah-lee-fowler-files-for-divorce-reports",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022121/rs_1200x1200-220221161331-1200-Sam-Hunt-Hannah-Lee-Fowler-LT-22122-GettyImages-968701436.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2022-02-22T01:21:00Z",
+      "content": "It's over between Sam Hunt and wife Hannah Lee Fowler.\r\nHannah filed for divorce from the country music singer on Feb. 18, also listing that as the date of separation, according to Tennessee court do… [+881 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PetaPixel" },
+      "author": null,
+      "title": "Panasonic Launches the GH6: 25.2MP, 5.7K 10-Bit Video, Active Cooling - PetaPixel",
+      "description": "New 25.2-megapixel sensor, enhanced video capabilities, better dynamic range and ISO, and active cooling.",
+      "url": "https://petapixel.com/2022/02/21/panasonic-launches-the-gh6-25-2mp-5-7k-10-bit-video-active-cooling/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2022/02/Panasonic-Launches-the-GH6-25.2MP-5.7K-10-Bit-Video-Active-Cooling.jpg",
+      "publishedAt": "2022-02-22T01:01:12Z",
+      "content": "Panasonic has announced the Lumix GH6, the first Micro Four Thirds camera to feature a resolution over 20-megapixels. The company says its 25.2-megapixel sensor is primarily for photography but it of… [+9300 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Decrypt" },
+      "author": "Jeff John Roberts",
+      "title": "Bored Ape Owner Files $1M Lawsuit Against OpenSea Over 'Stolen' NFT - Decrypt",
+      "description": "A Texas man is suing OpenSea over an exploit that saw high value NFTs, including his Bored Ape, sold for a fraction of their cost.",
+      "url": "https://decrypt.co/93483/bored-ape-nft-lawsuit-opensea",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/The-Bored-Ape-Yacht-Club-gID_2.jpeg",
+      "publishedAt": "2022-02-21T23:52:47Z",
+      "content": "In brief\r\n<ul><li>Timothy McKimmy wants his Bored Ape NFT back and/or damages of more than $1 million.</li><li>His lawsuit may be just the first one over an exploit involving \"inactive listings\" on O… [+3379 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Amir Vera, CNN",
+      "title": "Three former officers involved in George Floyd's death have all testified at their federal civil rights trial. Here's what they said - CNN",
+      "description": "Former officers Tou Thao, J. Alexander Kueng and Thomas Lane are accused of violating George Floyd's civil rights.",
+      "url": "https://www.cnn.com/2022/02/21/us/george-floyd-federal-civil-rights-trial-officer-testimony/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210305114627-kueng-lane-thao-split-super-tease.jpg",
+      "publishedAt": "2022-02-21T23:38:00Z",
+      "content": "(CNN)Defense attorneys rested their case Monday in the federal civil rights trial of three former officers involved in George Floyd's death. \r\nAll three officers have testified about their points of … [+7083 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Edward Segarra, USA TODAY",
+      "title": "Courteney Cox opens up about aging, says past cosmetic injections made her look 'really strange' - USA TODAY",
+      "description": "In a recent interview, the 57-year-old actor reflected on how she feels about getting older, as well as some cosmetic work she's gotten done.",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2022/02/21/courteney-cox-discusses-aging-past-cosmetic-procedures/6884948001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/01/08/USAT/258b6332-e0fe-4e74-873f-d4e065271df7-GTY_1180041692.JPG?auto=webp&crop=2454,1380,x584,y35&format=pjpg&width=1200",
+      "publishedAt": "2022-02-21T23:24:55Z",
+      "content": "The years may be flying by, and that’s all right with Courteney Cox — for the most part.\r\nThe “Friends” star, 57, opened up about getting older in an interview with The Sunday Times published Sunday.… [+2162 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Olafimihan Oshin",
+      "title": "Hundreds of Family Dollar stores closed after rodent infestation at warehouse | TheHill - The Hill",
+      "description": "The discount store chain Family Dollar has temporarily ...",
+      "url": "https://thehill.com/policy/healthcare/public-global-health/595229-hundreds-of-family-dollar-stores-closed-after-rodent",
+      "urlToImage": "https://thehill.com/sites/default/files/ca_familydollar_5420istock_0.jpg",
+      "publishedAt": "2022-02-21T23:19:52Z",
+      "content": "The discount store chain Family Dollar has temporarily closed more than 400 stores due to a rodent infestation at an Arkansas warehouse, multiple outlets reported. \r\nIn a statement on Friday, Family … [+2264 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jason Hanna, CNN",
+      "title": "Jury in federal hate crimes trial of Ahmaud Arbery's killers excused after first day of deliberations - CNN",
+      "description": "After deliberating for a little more than two and a half hours, the jury in the federal hate crimes trial of the three men convicted of murdering Ahmaud Arbery was excused for the day Monday. Deliberation will resume at 9 a.m. Tuesday on whether the men commi…",
+      "url": "https://www.cnn.com/2022/02/21/us/ahmaud-arbery-hate-crime-trial-monday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211115120233-02-mcmichael-bryan-mugshots-split-super-tease.jpg",
+      "publishedAt": "2022-02-21T23:09:00Z",
+      "content": "(CNN)After deliberating for a little more than two and a half hours, the jury in the federal hate crimes trial of the three men convicted of murdering Ahmaud Arbery was excused for the day Monday. De… [+10358 chars]"
+    }
+  ]
+}
